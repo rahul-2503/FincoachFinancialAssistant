@@ -1,0 +1,5 @@
+{
+  "name": "FinCoach: AI Personal Finance Assistant",
+  "description": "An AI-powered personal finance assistant to help users track their income, expenses, and spending patterns. It provides smart insights, forecasts, and a conversational chatbot using the Gemini API.",
+  "requestFramePermissions": []
+}
